@@ -1,0 +1,22 @@
+.main{
+    width: 400px;
+    background-color: white;
+    margin-left: calc((100% - 400px)/2);
+    list-style-type: none;
+
+}
+
+.li {
+    background-color: white;
+    margin-top: 3px;
+    margin-bottom: 3px;
+    margin-right: 3px;
+}
+.html{
+    margin: 6px;
+    background-color: #EEE;
+    padding: 6px;
+}
+.css{
+   
+}
